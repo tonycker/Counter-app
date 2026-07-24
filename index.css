@@ -7,10 +7,10 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgb(238, 158, 158);
     max-width: 80%;
     margin: auto;
-    border: 3px solid black;
+    border: 3px solid rgb(21, 20, 22);
     border-radius: 10px;
 }
 
@@ -26,7 +26,7 @@ h2 {
 }
 
 button {
-    border: 1px solid black;
+    border: 1px solid rgb(27, 24, 24);
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
